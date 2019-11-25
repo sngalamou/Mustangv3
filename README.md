@@ -1,1 +1,5 @@
-# The z-mustang-v3-lite porject is intented to be a reference implementation of the Mustang contact manager application.
+# mustang-v2-pjb
+
+Deploy this app to Azure
+
+This app can be ran locally, but the zip to city, state PHP won't work.
