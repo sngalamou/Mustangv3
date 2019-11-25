@@ -453,7 +453,7 @@ function logContacts() {
 }
 
 function callToPhp(phpArray) {
-$.post("control.php", phpArray, function (returnedData)    {
+$.post("process1.php", phpArray, function (returnedData)    {
     if (load == true) {
     loadPhp(returnedData); }
 });
